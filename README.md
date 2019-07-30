@@ -1,5 +1,6 @@
 # Basic-Database-SQL-Programming
-Demonstrate how to basic SQL features
+
+Demonstrate my understanding and what I learned from my Oracle Database Programming class
 
 ### My solutions to some of the textbook's programming problems.
 
